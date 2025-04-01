@@ -1,19 +1,59 @@
-# Hello World
 
-A new Flutter project created with FlutLab - https://flutlab.io
+#Flutter Fruit Shop
+# Flutter Basic E-Commerce App
 
-## Getting Started
+This is a simple **Flutter E-Commerce App** for beginners. It includes a **sign-up page, home page with product listings, product details page, and logout functionality**.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- **Sign-Up Page**: Users can sign up with an email and password.
+- **Product Grid**: Displays fruit products like Apple, Banana, and Orange with images and prices.
+- **Product Detail Page**: Shows product details and an "Add to Cart" button.
+- **Logout Button**: Allows users to log out and return to the Sign-Up Page.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Screenshots
+![Home Page](https://via.placeholder.com/500x300?text=Home+Page+Screenshot)
+![Product Detail Page](https://via.placeholder.com/500x300?text=Product+Detail+Page+Screenshot)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
 
-## Getting Started: FlutLab - Flutter Online IDE
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/flutter-basic-ecommerce.git
+   ```
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+2. **Navigate to the project directory:**
+   ```bash
+   cd flutter-basic-ecommerce
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Run the project:**
+   ```bash
+   flutter run
+   ```
+
+## Requirements
+- **Flutter SDK**: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- **Dart SDK** (comes with Flutter)
+
+## Contributing
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+- Product images are placeholders from [placeholder.com](https://via.placeholder.com).
+- Inspired by various Flutter e-commerce UI tutorials.
+
+
+A brief description of what this project does and who it's for
+
